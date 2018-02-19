@@ -22,6 +22,7 @@ searchForm.addEventListener('submit', e =>{
                         <h5 class="card-title">${hero.name}</h5>
                         <p class="card-text">${hero.description}</p>`;
         });
+
         output += `</div>`;
         document.getElementById('result').innerHTML = output;
     });
