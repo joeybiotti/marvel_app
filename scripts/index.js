@@ -9,7 +9,6 @@ searchForm.addEventListener('submit', e => {
         showMsg('Please enter a Marvel Character!', 'alert-danger')
     }
 
-    //Search Function will go here.
 
     e.preventDefault();
 });
