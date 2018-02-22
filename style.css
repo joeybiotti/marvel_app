@@ -1,8 +1,7 @@
 body{
-    background-color:lightgray;
+    background-color: #F2F2F2;
 };
 
 ::placeholder{
-    color: lightblue;
+    color: #F2F2F2;
 }
-
