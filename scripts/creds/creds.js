@@ -1,3 +1,3 @@
 export default () => {
-    const apiKey = '4c9247e917cd9232778c478734e41c92';
+    const apiKey = ''; //API Key stored in .txt file-- gitignore isn't working for some reason?
 };
